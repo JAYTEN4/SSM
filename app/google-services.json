@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801631307718",
+    "project_id": "selfserviceminimarket",
+    "storage_bucket": "selfserviceminimarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801631307718:android:3af1e4ff4c326c90ff54c7",
+        "android_client_info": {
+          "package_name": "com.example.ssm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801631307718-j97qpm9nut7ffbbag9br7m1sva30gdo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQu8rYhR-7CUpuUJfxq-FSZVqru7f5sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801631307718-j97qpm9nut7ffbbag9br7m1sva30gdo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
